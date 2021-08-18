@@ -1,0 +1,59 @@
+.section{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+div{
+  width : 300px;
+}
+
+h2{
+  margin-bottom: 0;
+  font-size: 1rem;
+}
+p{
+  margin: 0;
+}
+#keKka{
+  text-align: center;
+  vertical-align: middle;
+  background-color: rgb(206, 206, 206);
+  width: 90%;
+  font-size: 1.2em;
+  height: 60px;
+  font-weight: bold;
+  margin: 0 auto;
+  padding: 15px 0;
+  box-sizing: border-box;
+}
+.coment{
+  margin-top: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 200px auto 0 ;
+}
+img{
+  height: 100px;
+}
+#line{
+  margin: 0 auto;
+  height: 20px;
+  width: 10%;
+  padding: 20px;
+  background-color: rgb(206, 206, 206);
+}
+#result{
+  text-align: center;
+  margin: 15px 0;
+}
+#line{
+  font-weight: bold;
+}
+.hukidasi{
+  background-image: url(./hukidasi.png);
+  background-size: 100% 100%;
+  width: 80%;
+  height: 60px;
+}
